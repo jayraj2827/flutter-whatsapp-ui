@@ -1,0 +1,2 @@
+T:/Stuffs/Whatsapp/android/app/.cxx/Debug/584p4v4i/x86/CMakeFiles/edit_cache.dir
+T:/Stuffs/Whatsapp/android/app/.cxx/Debug/584p4v4i/x86/CMakeFiles/rebuild_cache.dir
